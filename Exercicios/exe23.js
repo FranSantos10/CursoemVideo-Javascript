@@ -14,7 +14,7 @@ function Aprovacao(cod, n1,n2,n3){
 
     mp = (maiorNota * pesoM + ( n2 * pesoI + n3 * pesoI))/(pesoM+(pesoI*2))   
         
-    if (MP >= 5 ){
+    if (mp >= 5 ){
         console.log(`${mp}`)
     } 
 }
