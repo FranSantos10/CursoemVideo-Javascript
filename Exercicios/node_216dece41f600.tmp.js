@@ -8,7 +8,7 @@
 let codigoAluno = 0;
 
 while (codigoAluno >= 0) {
-  codigoAluno = 1
+  codigoAluno = 0
   if (codigoAluno >= 0) {
     const nota1 = 9
     const nota2 = 10
