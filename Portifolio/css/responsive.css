@@ -1,0 +1,6 @@
+@media (max-width: 1200px) {
+    header h1 {
+        font-size: 1px;
+        color: blue;
+    }
+}
